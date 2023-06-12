@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Alfred Likes Finance</title>
+    <style>
+        h1 {text-align: center; color: #000; font-family: Helvetica; background-color: lightgreen;
+             padding: 100px; margin: 0px; font-size: 75px;}
+        h2 {text-align: center; color: #000; font-family: Calibri; background-color: lightgray;
+             margin: 0px; padding: 25px;}
+        h3 {text-align: center; font-family: Calibri;}
+        p1 {font-family: Calibri; padding: 5px; padding: 10px;
+            text-align: center; float: left;}
+        p2 {float: right; font-family: Helvetica;}
+        a {text-decoration: none;}
+        img {float: right;}
+        body {background-color:color-mix(in srgb, beige 50%, lightgray 50%);}
+    </style>
+</head>
+
+<body>
+    <h1><a href="Alfred Likes Finance">Welcome to Alfred likes Finance</a></h1>
+    <h2><a href="Current Accounts.html">Current Accounts</a> | 
+        <a href="Savings Accounts.html">Savings Accounts</a> | 
+        <a href="Children's.html">Children's</a> | 
+        <a href="Credit Cards.html">Credit Cards</a></h2>
+    <p1><strong>About this Website</strong><br>
+        Hello, my name is Alfred!<br>
+        I have created this website to provide interesting info on finance!<br>
+        So, what are you waiting for? Hop to a tab now!</p1>
+    <img src="Halifax Smart Spending.PNG" style="width: 10%;height: 10%;">
+    <p2><i>My current current account!</i></p2>
+</body>
